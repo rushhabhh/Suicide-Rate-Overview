@@ -19,7 +19,7 @@ The dashboard includes the following visualizations:
 
 ## Data Source
 
-The data used in this dashboard is sourced from (https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021). It includes information on suicides recorded across various countries and years, along with demographic and socio-economic factors.
+The data used in this dashboard is sourced from https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021. It includes information on suicides recorded across various countries and years, along with demographic and socio-economic factors.
 
 ## How to Use
 

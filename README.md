@@ -5,6 +5,7 @@ This repository contains a data cleaning in python and data analysis dashboard c
 ## Overview
 
 The dashboard visualizes data related to suicide rates across different countries, years, age groups, and generations. It aims to identify trends and patterns in suicide rates.
+Dashboard Link: https://public.tableau.com/app/profile/rushabh.vora/viz/SuicideRateOverview_17012329534000/SuicideRateOverview-Dashboard
 
 ## Dashboard Features
 
